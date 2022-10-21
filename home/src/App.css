@@ -1,0 +1,55 @@
+.App {
+  text-align: center;
+}
+body{
+  background-color: #2f3640;
+}
+li{
+  list-style: none;
+}
+a{
+  color:inherit;
+  text-decoration: none;
+}
+
+
+
+.Top{
+  width: 100%;
+  height: 100px;
+  overflow: hidden;
+  background-color: #000;
+  color:#fff;
+}
+.Top>a{
+  width: 100px;
+  height: 100px;
+  float:left;
+  font-size: 20px;
+  text-decoration: none;
+  color:inherit;
+  display: block;
+  background-color: #61dafb;
+}
+
+.Top li{
+  width:100px;
+  float:left;
+  margin-right: 50px;
+}
+.Top li:last-child{
+  margin-right: 0;
+}
+.Main_menu{
+  width: 500px;
+  margin-top:50px;
+  overflow: hidden;
+  float:right;
+
+}
+.Main_menu a{
+  font-weight: 900;
+  font-size: 18px;
+  float:left;
+  margin-right: 20px;
+}

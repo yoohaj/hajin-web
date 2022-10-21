@@ -11,8 +11,6 @@ function App() {
           <a href="#"><li>My skills</li></a>
           <a href="#"><li>Project</li></a>
           <a href="#"><li>blog</li></a>
-          <a href="#"><li>blog</li></a>
-          <a href="#"><li>blog</li></a>
 
         </ul>
       </div>
